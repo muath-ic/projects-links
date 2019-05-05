@@ -2,13 +2,13 @@
 
 ### This is all links of all created projects
 
-[[gcis-ye.com]]
-[[infinitecloud.co]]
-[[wds-trading.com]]
-[[kingofkeys.co]]
-[[national-providers.com]]
-[[np-constructions.com]]
-[[np-logistics.net]]
-[[shadadi4computer.com]]
-[[alwakdi.com]]
-[[eh-linedesign.com]]
+[[https://gcis-ye.com]]
+[[https://infinitecloud.co]]
+[[https://wds-trading.com]]
+[[https://kingofkeys.co]]
+[[https://national-providers.com]]
+[[https://np-constructions.com]]
+[[https://np-logistics.net]]
+[[https://shadadi4computer.com]]
+[[https://alwakdi.com]]
+[[https://eh-linedesign.com]]
