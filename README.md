@@ -2,7 +2,7 @@
 
 ### This is all links of all created projects
 <br>
-<br>[[https://gcis-ye.com]]
+<br>[[https://gcsi-ye.com]]
 <br>[[https://infinitecloud.co]]
 <br>[[https://wds-trading.com]]
 <br>[[https://kingofkeys.co]]
